@@ -142,6 +142,24 @@ export const projectsData: ProjectItem[] = [
     accentColor: "#686de0",
   },
   {
+    id: "unlabs-store",
+    title: "Unlabs Store",
+    subtitle: "Modern Room & Furniture E-Commerce Platform",
+    category: "Web Development",
+    description:
+      "Unlabs Store is an interior and room furniture e-commerce website designed to help customers discover and set up their ideal living spaces. Built with a clean visual catalog segmented by room categories (Living Room, Bedroom, Decoration, and Children Room), interactive product carousels, and a seamless shopping cart flow.",
+    highlights: [
+      "Curated room-by-room furniture catalog & bento grid showcase",
+      "Interactive product discovery carousel & detail view",
+      "Responsive e-commerce shopping cart & modern UI layout",
+    ],
+    image: "/assets/projects/unlabs-store.png",
+    tags: ["E-Commerce", "Tailwind CSS", "JavaScript", "UI/UX Design", "Responsive Web"],
+    liveUrl: "https://unlabs-store.netlify.app/",
+    featured: true,
+    accentColor: "#5358d8",
+  },
+  {
     id: "audix-mobile-app",
     title: "Audix",
     subtitle: "Next-Gen Audio & Music Mobile Experience",
